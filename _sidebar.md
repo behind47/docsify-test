@@ -1,3 +1,4 @@
 * [首页](README.md)
-* [test1](test1.md)
-* [docs](/docs/test2.md)
+* [docs](/docs/README.md)
+* [menu](/menu/README.md)
+* [weather](/weather/README.md)
