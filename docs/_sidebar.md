@@ -1,2 +1,2 @@
-* [首页](/docs/test2.md)
-* [指南](/docs/test3.md)
+* [test2](./test2.md)
+* [test3](./test3.md)
