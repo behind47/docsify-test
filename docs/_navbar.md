@@ -1,3 +1,4 @@
 * docs
-    * [test2](/docs/test2.md)
-    * [test3](/docs/test3.md)
+    * [README](/docs/README.md)
+    * [guide](/docs/guide.md)
+    * [quick-start](/docs/quick-start.md)

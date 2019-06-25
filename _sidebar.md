@@ -2,3 +2,4 @@
 * [docs](/docs/README.md)
 * [menu](/menu/README.md)
 * [weather](/weather/README.md)
+* [subjects](/subjects/README.md)
