@@ -1,3 +1,3 @@
-* [test2](./test2.md)
-* [test3](./test3.md)
-* [index](../)
+* [test2](/docs/test2.md)
+* [test3](/docs/test3.md)
+* [index](README.md)

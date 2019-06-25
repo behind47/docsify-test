@@ -1,4 +1,4 @@
 * index
-    * [README](./README.md)
-    * [test1](./test1.md)
+    * [README](README.md)
+    * [test1](test1.md)
 
